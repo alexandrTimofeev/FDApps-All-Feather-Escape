@@ -5268,23 +5268,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 53429084}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &55397831
 GameObject:
   m_ObjectHideFlags: 0
@@ -63663,23 +63650,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 590064848}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &590524467
 GameObject:
   m_ObjectHideFlags: 0
@@ -78104,23 +78078,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 734622260}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &734663453
 GameObject:
   m_ObjectHideFlags: 0
@@ -103758,23 +103719,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 924802886}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &925722821
 GameObject:
   m_ObjectHideFlags: 0
@@ -146142,23 +146090,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1318390629}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &1319700783
 GameObject:
   m_ObjectHideFlags: 0
@@ -432030,23 +431965,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1449730887}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &1450905412
 GameObject:
   m_ObjectHideFlags: 0
@@ -441573,23 +441495,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1492674624}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &1493684300
 GameObject:
   m_ObjectHideFlags: 0
@@ -471392,6 +471301,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 8170153791668043268, guid: 0d230cc8be529a542a08cb878ab14b18, type: 3}
   m_PrefabInstance: {fileID: 912227762}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1759315766 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8170153791668043265, guid: 0d230cc8be529a542a08cb878ab14b18, type: 3}
+  m_PrefabInstance: {fileID: 912227762}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a47f546fc70ec8428172694e78e4288, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1759791116
 GameObject:
   m_ObjectHideFlags: 0
@@ -516108,23 +516028,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2070060043}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c65e0e17ad2e8ae4aa8b8ea1baa5ccce, type: 3}
+  m_Script: {fileID: 11500000, guid: 6849eed270b4ee349a67be7ee15063e7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccelerometerInputProvider
-  horizontalAxis: 0
-  verticalAxis: 5
-  invertHorizontal: 0
-  invertVertical: 0
-  sensitivity: 1
-  horizontalDeadZone: 0.02
-  verticalDeadZone: 0.1
-  calibrateOnStart: 1
-  calibrateKey: 99
-  onCalibrate:
-    m_PersistentCalls:
-      m_Calls: []
-  useAccelerometer: 1
-  debugOutput: {x: 0, y: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::JoystickInputProvider
+  joystick: {fileID: 1759315766}
 --- !u!1 &2070220252
 GameObject:
   m_ObjectHideFlags: 0
